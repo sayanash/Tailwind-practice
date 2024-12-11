@@ -14,7 +14,7 @@
         @apply font-display font-medium text-gray-800;
     }
     .container{
-        @apply px-6 py-12 max-w-7xl mt-16 mx-auto lg:px-8 lg:mt-32;
+        @apply px-6 py-12 max-w-7xl mt-6 mx-auto lg:px-8 lg:mt-32;
     }
     .gradient-hover-outer {
         @apply p-[1px] bg-slate-200 hover:bg-gradient-to-br hover:from-red-200 hover:via-purple-200 hover:to-yellow-200;
